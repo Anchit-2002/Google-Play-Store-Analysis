@@ -6,7 +6,7 @@
 Mobile applications play a vital role in modern life, serving a variety of functions across categories such as family, communication, entertainment, tools, and music. In a highly competitive global market, app developers face immense pressure to stay relevant and maintain their market position. This project leverages a dataset of 10,000 Google Play Store applications, divided into two CSV files: Play Store Data (10,841 rows, 13 columns) and User Reviews (64,295 rows, 5 columns). The primary aim is to analyze factors that influence app popularity by examining attributes such as app category, pricing, size, and user sentiment. Key questions include understanding what makes an app popular, the optimal pricing and size for an app, and identifying trends in user sentiment across different categories. Through exploratory data analysis (EDA), we seek to extract meaningful insights and create visualizations to better understand app preferences. The findings will serve as valuable insights for developers, helping them optimize their applications to align with user preferences, thus enhancing engagement and driving app success in a competitive market.
 
 
-1>. **The Content of Play Store Data** :
+**1>. The Content of Play Store Data** :
 
 - **App**: Name of the app with optional description.
 - **Category**: App category (33 categories in total).
@@ -22,7 +22,7 @@ Mobile applications play a vital role in modern life, serving a variety of funct
 - **Current Ver**: Current app version.
 - **Android Ver**: Required Android version.
 
-2>. **User Reviews Contents:**
+**2>. User Reviews Contents:**
 
 - **App**: Name of the app.
 - **Translated Review**: English-translated user review.
@@ -55,34 +55,7 @@ Mobile applications play a vital role in modern life, serving a variety of funct
 - **Exploratory Data Analysis (EDA)**: Conducting EDA helps identify potential risks, uncover insights, and improve app development strategies.
 Play Store App Review Analysis
 
-# 📖 Problem Statement:
 
-Mobile applications play a vital role in modern life, serving a variety of functions across categories such as family, communication, entertainment, tools, and music. In a highly competitive global market, app developers face immense pressure to stay relevant and maintain their market position. This project leverages a dataset of 10,000 Google Play Store applications, divided into two CSV files: Play Store Data (10,841 rows, 13 columns) and User Reviews (64,295 rows, 5 columns). The primary aim is to analyze factors that influence app popularity by examining attributes such as app category, pricing, size, and user sentiment. Key questions include understanding what makes an app popular, the optimal pricing and size for an app, and identifying trends in user sentiment across different categories. Through exploratory data analysis (EDA), we seek to extract meaningful insights and create visualizations to better understand app preferences. The findings will serve as valuable insights for developers, helping them optimize their applications to align with user preferences, thus enhancing engagement and driving app success in a competitive market.
-
-
-# The Content of Play Store Data :
-
-- **App**: Name of the app with optional description.
-- **Category**: App category (33 categories in total).
-- **Size**: Disk space needed for installation.
-- **Rating**: Average user rating (1-5).
-- **Reviews**: Number of user reviews.
-- **Installs**: Approximate install count.
-- **Type**: Indicates if the app is free or paid.
-- **Price**: App price (0 for free apps).
-- **Content Rating**: Suitable age group.
-- **Genres**: Genre(s) of the app.
-- **Last Updated**: Date of the latest update.
-- **Current Ver**: Current app version.
-- **Android Ver**: Required Android version.
-
-**User Reviews Contents:**
-
-- **App**: Name of the app.
-- **Translated Review**: English-translated user review.
-- **Sentiment**: User's attitude/emotion (Positive, Negative, Neutral).
-- **Sentiment Polarity**: Review polarity (-1 to 1; -1 = Negative, 1 = Positive).
-- **Sentiment Subjectivity**: Measures review subjectivity (0 to 1); higher indicates more public opinion-based.
 
 
 
