@@ -1,9 +1,11 @@
-
 # Play Store App Review Analysis
+
+# Overview
+The objective is to provide insights into customer demands, helping developers optimize their apps for greater success. By analyzing attributes like app type (free or paid), user reviews, and ratings, The aim is to uncover key relationships and create visualizations to understand app preferences. These insights will guide developers in aligning their apps with user needs, boosting engagement and success in a competitive market.
 
 # 📖 Problem Statement:
 
-Mobile applications play a vital role in modern life, serving a variety of functions across categories such as family, communication, entertainment, tools, and music. In a highly competitive global market, app developers face immense pressure to stay relevant and maintain their market position. This project leverages a dataset of 10,000 Google Play Store applications, divided into two CSV files: Play Store Data (10,841 rows, 13 columns) and User Reviews (64,295 rows, 5 columns). The primary aim is to analyze factors that influence app popularity by examining attributes such as app category, pricing, size, and user sentiment. Key questions include understanding what makes an app popular, the optimal pricing and size for an app, and identifying trends in user sentiment across different categories. Through exploratory data analysis (EDA), we seek to extract meaningful insights and create visualizations  to better understand app preferences. The findings will serve as valuable insights for developers, helping them optimize their applications to align with user preferences, thus enhancing engagement and driving app success in a competitive market.
+Mobile applications play a vital role in modern life, serving a variety of functions across categories such as family, communication, entertainment, tools, and music. In a highly competitive global market, app developers face immense pressure to stay relevant and maintain their market position. This project leverages a dataset of 10,000 Google Play Store applications, divided into two CSV files: Play Store Data (10,841 rows, 13 columns) and User Reviews (64,295 rows, 5 columns). The primary aim is to analyze factors that influence app popularity by examining attributes such as app category, pricing, size, and user sentiment. Key questions include understanding what makes an app popular, the optimal pricing and size for an app, and identifying trends in user sentiment across different categories. Our goal is to filter and make plots accordingly for a better EDA with respect to the final data. We need to explore and analyze the data to discover key factors responsible for app engagement and success.
 
 
 1. **The Content of Play Store Data** :
